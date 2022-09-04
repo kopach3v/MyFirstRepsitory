@@ -7,3 +7,4 @@ print(product)
 product['Memory'] = 256
 print(product)
 print('Hi!')
+print("Noty hi")
